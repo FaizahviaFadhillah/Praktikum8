@@ -30,12 +30,12 @@ Object-Oriented Programming(OOP) adalah sebuah cara  untuk membangun sebuah apli
 
 # HASIL PROGRAMNYA
 
-- ![img.6](gambar/tambah.png)
-- ![img.7](gambar/lihat.png)
-- ![img.8](gambar/ubah.png)
-- ![img.9](gambar/hasil%20ubah.png)
-- ![img.10](gambar/hapus.png)
-- ![img.11](gambar/selesai.png)
+![img.6](gambar/tambah.png)
+![img.7](gambar/lihat.png)
+![img.8](gambar/ubah.png)
+![img.9](gambar/hasil%20ubah.png)
+![img.10](gambar/hapus.png)
+![img.11](gambar/selesai.png)
 
 
 
